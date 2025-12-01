@@ -1,5 +1,5 @@
 Hello World!
 
-Hello computer 
+Hello computer! 
 
 I am learning git!
